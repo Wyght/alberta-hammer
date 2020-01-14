@@ -1,5 +1,7 @@
 # alberta-hammer
-# simply to learn fetch and pull, I messed with file
+# ..   htdocs/dashboard/sandbox ...
+re-tooling this to be 
+The Complete Wed Development 2020 Udemy 
 updated on Local repository 01/03/17
 on Example branch 
 can't sleep started the course
